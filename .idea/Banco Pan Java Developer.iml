@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/02_Aprendendo a Linguagem Java/2.1_Aprendendo a Sintaxe Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02_Aprendendo a Linguagem Java/2.2_Lógica Condicional e Controle de Fluxo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02_Aprendendo a Linguagem Java/2.3_Estruturas de Repetição e Arrays" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
